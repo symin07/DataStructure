@@ -1,0 +1,210 @@
+** TO-DO LIST APPLICATION **
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+g
+
+Your to-do list is empty!
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+a
+
+Please enter the task description: do assignment 5
+Please enter the task priority (0-999): 3
+The task 'do assignment 5' has been added to your to-do list.
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+a
+
+Please enter the task description: study heap-based priority queue
+Please enter the task priority (0-999): 1
+The task 'study heap-based priority queue' has been added to your to-do list.
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new taska
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+a
+
+Please enter the task description: review trees for Final exam
+Please enter the task priority (0-999): 101
+The task 'review trees for Final exam' has been added to your to-do list.
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+g
+
+Your first task is: study heap-based priority queue
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+a
+
+Please enter the task description: take a nap
+Please enter the task priority (0-999): 0
+The task 'take a nap' has been added to your to-do list.
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+g
+
+Your first task is: take a nap
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+s
+
+Please enter the filename to save the list to: todo.txt
+The list has been saved into the file successfully.
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+e
+
+Bye!
+
+
+	** Run the program again...	**
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+l
+
+Please enter the filename to load the list from: todo.txt
+The list has been loaded!
+
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+p
+
+Task: take a nap Priority: 0
+Task: study heap-based priority queue Priority: 1
+Task: do assignment 5 Priority: 3
+Task: review trees for Final exam Priority: 101
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+r
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+p
+
+Task: study heap-based priority queue Priority: 1
+Task: do assignment 5 Priority: 3
+Task: review trees for Final exam Priority: 101
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+r
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+p
+
+Task: do assignment 5 Priority: 3
+Task: review trees for Final exam Priority: 101
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+e
+Bye!
+
+============

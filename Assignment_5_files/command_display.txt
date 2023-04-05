@@ -1,0 +1,9 @@
+
+To use this program press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
